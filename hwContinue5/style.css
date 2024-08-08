@@ -1,0 +1,19 @@
+div {
+  display: flex;
+  gap: 15vw;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+img {
+  width: 300px;
+}
+h1 {
+  color: brown;
+}
+p {
+  background-color: aqua;
+}
